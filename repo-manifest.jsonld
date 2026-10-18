@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/explosion/wasabi/commit/ddcb05ac1e27ca564a46ba9ae55b79aef3d99bbb",
       "git:hexsha": "ddcb05ac1e27ca564a46ba9ae55b79aef3d99bbb",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/explosion/wasabi/commit/0363236c002f7fd2e524bdadd69df008a7513de4",
