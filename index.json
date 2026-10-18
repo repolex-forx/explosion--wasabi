@@ -1,0 +1,11 @@
+{
+  "org": "explosion",
+  "repo": "wasabi",
+  "versions": [
+    {
+      "commit": "ddcb05ac1e27ca564a46ba9ae55b79aef3d99bbb",
+      "tag": "",
+      "parsed_at": "2026-10-18T13:34:17.727641+00:00"
+    }
+  ]
+}
