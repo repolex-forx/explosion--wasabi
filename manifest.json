@@ -73,6 +73,74 @@
       ],
       "ast": [
         "aggregate/ast/d44575439b086751689c18b1a07d3b14de0520b9/chunk-001.nq.gz"
+      ],
+      "lsp": "aggregate/lsp/d44575439b086751689c18b1a07d3b14de0520b9.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "typing-extensions",
+          "ecosystem": "PYPI",
+          "version": "3.7.4.1",
+          "githubOrg": "python",
+          "githubRepo": "typing_extensions",
+          "githubCommit": "7c00cacae00c4f3263e939e88b5e7739150851e5",
+          "githubTag": "3.7.4.1",
+          "githubUrl": "https://github.com/python/typing_extensions",
+          "source": "build_file:requirements.txt"
+        },
+        {
+          "packageName": "pytest",
+          "ecosystem": "PYPI",
+          "version": "9.2.0",
+          "githubOrg": "pytest-dev",
+          "githubRepo": "pytest",
+          "githubCommit": "ae1d0ff57b8bd4252da9ade7353523ac0ac73281",
+          "githubTag": "9.2.0",
+          "githubUrl": "https://github.com/pytest-dev/pytest",
+          "source": "build_file:requirements.txt"
+        },
+        {
+          "packageName": "mypy",
+          "ecosystem": "PYPI",
+          "version": "2.4.1",
+          "githubOrg": "python",
+          "githubRepo": "mypy",
+          "githubCommit": "ad02a35e623d105ab7340f75558716bc09f8242e",
+          "githubTag": "v2.4.1",
+          "githubUrl": "https://github.com/python/mypy",
+          "source": "build_file:requirements.txt"
+        },
+        {
+          "packageName": "types-colorama",
+          "ecosystem": "PYPI",
+          "version": "0.4.15.20260508",
+          "githubOrg": "python",
+          "githubRepo": "typeshed",
+          "githubUrl": "https://github.com/python/typeshed",
+          "source": "build_file:requirements.txt"
+        },
+        {
+          "packageName": "ipykernel",
+          "ecosystem": "PYPI",
+          "version": "7.4.0",
+          "githubOrg": "ipython",
+          "githubRepo": "ipykernel",
+          "githubCommit": "cfa461d8afac05cefc3671128d00adaa3c0720f4",
+          "githubTag": "v7.4.0",
+          "githubUrl": "https://github.com/ipython/ipykernel",
+          "source": "build_file:requirements.txt"
+        },
+        {
+          "packageName": "setuptools",
+          "ecosystem": "PYPI",
+          "version": "84.2.1",
+          "githubOrg": "pypa",
+          "githubRepo": "setuptools",
+          "githubCommit": "3895f9829fc0e51882981773a823a658eb1d1636",
+          "githubTag": "v84.2.1",
+          "githubUrl": "https://github.com/pypa/setuptools",
+          "source": "lsp",
+          "install_path": "/home/runner/.local/share/uv/tools/repolex/lib/python3.13/site-packages/setuptools/__init__.py"
+        }
       ]
     }
   ],
