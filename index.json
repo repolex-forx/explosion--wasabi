@@ -3,6 +3,11 @@
   "repo": "wasabi",
   "versions": [
     {
+      "commit": "d44575439b086751689c18b1a07d3b14de0520b9",
+      "tag": "v1.1.3",
+      "parsed_at": "2026-11-22T01:31:49.736763+00:00"
+    },
+    {
       "commit": "ddcb05ac1e27ca564a46ba9ae55b79aef3d99bbb",
       "tag": "",
       "parsed_at": "2026-10-18T13:34:17.727641+00:00"

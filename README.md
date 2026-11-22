@@ -36,9 +36,15 @@ All data is stored as gzip-compressed [N-Quads](https://www.w3.org/TR/n-quads/) 
 .
 ├── aggregate
 │   ├── ast
+│   │   ├── d44575439b086751689c18b1a07d3b14de0520b9
+│   │   │   └── chunk-001.nq.gz
 │   │   └── ddcb05ac1e27ca564a46ba9ae55b79aef3d99bbb
 │   │       └── chunk-001.nq.gz
+│   ├── lsp
+│   │   └── d44575439b086751689c18b1a07d3b14de0520b9.nq.gz
 │   └── repolex
+│       ├── d44575439b086751689c18b1a07d3b14de0520b9
+│       │   └── chunk-001.nq.gz
 │       └── ddcb05ac1e27ca564a46ba9ae55b79aef3d99bbb
 │           └── chunk-001.nq.gz
 ├── blob
@@ -46,10 +52,12 @@ All data is stored as gzip-compressed [N-Quads](https://www.w3.org/TR/n-quads/) 
 │   ├── 04bd6f6dd17e934d584a8d000b9116af5f9c7b2c.nq.gz
 │   ├── 04f50aa304f891a3b0412cba15094c12cad9f6e0.nq.gz
 │   ├── 16d8d4a66c09ea08932e93382a18e0fbb51d8949.nq.gz
+│   ├── 2809880149f81191f41ac0cbdb217899f29513a6.nq.gz
 │   ├── 32c198028ceacaa821cfb9e5f723f0ee17acbbdc.nq.gz
 │   ├── 65d06d6197f501fda97deb110861f0f8d4340027.nq.gz
 │   ├── 687827a4ad2e1094e9c40000949d4143e42a1619.nq.gz
 │   ├── 694166b0db290ce3466315b9b1d1321796cc5eb7.nq.gz
+│   ├── 7e7a61ecbb90fd731ee4855a96ea9bc8314ef1ac.nq.gz
 │   ├── 882362d2316b2660cb192f188c1506703332db1b.nq.gz
 │   ├── 9dff68e98b53d039f92cac5530b43ba99019a410.nq.gz
 │   ├── 9e6b1ff551ca99ef78b8b9cc9241c9fe3a206146.nq.gz
@@ -70,7 +78,10 @@ All data is stored as gzip-compressed [N-Quads](https://www.w3.org/TR/n-quads/) 
 │   └── branch.nq.gz
 ├── commit
 │   └── commit.nq.gz
+├── dep
+│   └── d44575439b086751689c18b1a07d3b14de0520b9.nq.gz
 ├── filetree
+│   ├── d44575439b086751689c18b1a07d3b14de0520b9.nq.gz
 │   └── ddcb05ac1e27ca564a46ba9ae55b79aef3d99bbb.nq.gz
 ├── issue
 │   └── issue.nq.gz
@@ -79,7 +90,7 @@ All data is stored as gzip-compressed [N-Quads](https://www.w3.org/TR/n-quads/) 
 └── tag
     └── tag.nq.gz
 
-13 directories, 32 files
+17 directories, 39 files
 ```
 
 | Directory | What it contains |
@@ -100,4 +111,4 @@ All data is stored as gzip-compressed [N-Quads](https://www.w3.org/TR/n-quads/) 
 [explosion/wasabi](https://github.com/explosion/wasabi)
 
 ---
-*Parsed on 2026-10-18 by [repolex](https://repolex.ai)*
+*Parsed on 2026-11-22 by [repolex](https://repolex.ai)*
